@@ -1,0 +1,15 @@
+[INFO ] 2024-05-28 22:39:50.330 [main] Loggertest - Chrome launched
+[INFO ] 2024-05-28 22:39:50.477 [main] Loggertest - Maximize the window
+[INFO ] 2024-05-28 22:39:50.499 [main] Loggertest - Implicit wait 
+[INFO ] 2024-05-28 22:39:54.615 [main] Loggertest - URL navigated
+[INFO ] 2024-05-28 22:39:54.977 [main] Loggertest - Email entered
+[INFO ] 2024-05-28 22:39:55.176 [main] Loggertest - Password Entered
+[INFO ] 2024-05-28 22:39:55.621 [main] Loggertest - Browser closed
+[DEBUG] 2024-05-30 13:41:53.357 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-05-30 13:41:53.377 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-05-30 13:42:33.225 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-05-30 13:42:33.243 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-05-30 13:42:59.106 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-05-30 13:42:59.127 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-05-30 13:45:28.301 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-05-30 13:45:28.417 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
